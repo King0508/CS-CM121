@@ -1,1 +1,1 @@
-**CS CM 121: Probabilistic Models in Computational Genomics**
+# CS CM 121: Probabilistic Models in Computational Genomics
