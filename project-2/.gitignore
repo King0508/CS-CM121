@@ -1,0 +1,40 @@
+# Cache and embeddings (too large for GitHub)
+cache/
+*.npy
+
+# Data files (too large for GitHub)
+project_1/train.tsv
+project_1/test.tsv
+project_1/sequences.fasta
+
+# Predictions and submissions
+predictions.csv
+predictions.zip
+*.zip
+
+# Model checkpoints
+*.pth
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
